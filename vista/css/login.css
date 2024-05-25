@@ -1,0 +1,34 @@
+.entrega
+{
+	width: 30%
+}
+.micolor
+{
+color: #fff;
+  background-color: #8473DD
+}
+#les {background-color:#AED6F1; padding: 30px; text-align:  center !important; font-family: Times New Roman; color: 
+#17202A;
+}
+#login-box {
+    width: 50%;
+    text-align:center;
+    margin: 0 auto;
+    margin-top: 15%;
+    background:#AED6F1;
+    padding: 30px 50px;
+}
+
+#login-box h1 {
+    color: black;
+  font-family: Britannic Bold; 
+}
+
+.mensaje{
+	background-color: #0DC6A5;
+	color: #000000
+	font-weight: bold;
+}
+.link{
+	
+}
